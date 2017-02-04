@@ -1,5 +1,7 @@
 # unicons
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/unicons.svg)](https://greenkeeper.io/)
+
 **Cross-platform unicode icon toolkit**
 
 [![](https://img.shields.io/npm/v/unicons.svg)](https://www.npmjs.com/package/unicons)
